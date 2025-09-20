@@ -21,3 +21,5 @@ The dashboard uses navigation buttons (Home, Profit, Unit Sold, COGs) for smooth
 🔹 Filters:
 
 A Year filter is provided to analyze metrics by different years (2013, 2014, etc.).
+
+
